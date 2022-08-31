@@ -1,7 +1,4 @@
 
-
-https://user-images.githubusercontent.com/35842246/187792528-57c856a7-c801-4a06-b957-8554c7dd275e.mp4
-
 # noise-tile
 a tileable sprite based on perlin noise.
 
